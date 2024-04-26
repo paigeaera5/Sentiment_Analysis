@@ -50,6 +50,7 @@ These are the technologies, libraries, and frameworks used in this project:
 This project was completed in collaboration with:
 - Paige Lee ([plee65@illinois.edu](mailto:plee65@illinois.edu))
 - Shweta Narayanan ([shwetan@uw.edu](mailto:shwetan@uw.edu))
-- Reva Bathula([revacb2@illinois.edu](mailto:revacb2@illinois.edu)
-- Julian Alamo-Rosas([jva7@pitt.edu](mailto:jva7@pitt.edu))
+- Reva Bathula ([revacb2@illinois.edu](mailto:revacb2@illinois.edu))
+- Julian Alamo-Rosas ([jva7@pitt.edu](mailto:jva7@pitt.edu))
+- Ailsa Sun ([23suna18@berkeley.edu](mailto:23suna18@berkeley.edu))
   
