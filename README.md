@@ -51,4 +51,5 @@ This project was completed in collaboration with:
 - Paige Lee ([plee65@illinois.edu](mailto:plee65@illinois.edu))
 - Shweta Narayanan ([shwetan@uw.edu](mailto:shwetan@uw.edu))
 - Reva Bathula([revacb2@illinois.edu](mailto:revacb2@illinois.edu)
+- Julian Alamo-Rosas([jva7@pitt.edu](mailto:jva7@pitt.edu)
   
