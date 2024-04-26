@@ -1,4 +1,4 @@
-# Sentiment Classification and Analysis for Tweets
+# Sentiment Prediction in Social Media
 
 Created a text classification model to identify what words are correlated with positive and negative sentiment, employing machine learning methods and data preprocessing techniques. This development involved the use of Python libraries for text cleaning, feature extraction, and model training and testing. After determining the accuracy of the model, the features found for positive and negative sentiments were used to create word clouds to further enhance the results. This project was developed within the AI4ALL Ignite accelerator.
 
